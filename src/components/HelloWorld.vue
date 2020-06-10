@@ -3,7 +3,7 @@
     <v-container class="fill-height" fluid>
       <v-row align="center" justify="center">
         <v-col class="shrink">
-          <span>한걸나빠</span>
+          <div>한걸오빠</div>
         </v-col>
       </v-row>
     </v-container>
