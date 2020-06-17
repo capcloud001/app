@@ -85,7 +85,7 @@ export default {
       },
       {
         name: "Ice cream sandwich",
-        calories: 237,
+        calories: 238,
         fat: 9.0,
         carbs: 37,
         protein: 4.3,
